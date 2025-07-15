@@ -1,1 +1,28 @@
-<h1 align="center"><b>Hola , soy José Guachun </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# 👋 Hola, soy José Guachun
+
+🎯 **Desarrollador Full Stack** con experiencia en la creación de aplicaciones web robustas, escalables y eficientes utilizando tecnologías modernas como:
+
+- ⚙️ **Django** (REST Framework, Celery, PostgreSQL)
+- ⚛️ **React** (Hooks, Context API, Vite, TypeScript)
+- 🧩 **Microservicios**, integración de APIs, y arquitecturas desacopladas
+- 🐳 Docker, Redis, Git, CI/CD, WebSockets
+
+---
+
+### 🚀 Sobre mí
+
+Soy un apasionado por el desarrollo de soluciones que aporten valor real. Me gusta mantener un enfoque limpio y pragmático, siempre buscando la mejor forma de resolver problemas complejos con código claro y mantenible.
+
+Actualmente me encuentro trabajando en proyectos donde combino backend en Django con frontend en React, aplicando buenas prácticas y herramientas modernas para lograr productos de calidad.
+
+---
+
+### 📫 ¿Hablamos?
+
+- 💼 [LinkedIn (si tienes)](https://www.linkedin.com/in/tuusuario)
+- 📧 guachunjose@example.com *(reemplázalo con tu correo real)*
+- 🌐 [Portafolio / Web personal (si tienes)](https://tuweb.dev)
+
+---
+
+Gracias por visitar mi perfil 👨‍💻
