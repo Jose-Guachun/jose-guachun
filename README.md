@@ -19,9 +19,7 @@ Actualmente me encuentro trabajando en proyectos donde combino backend en Django
 
 ### 📫 ¿Hablamos?
 
-- 💼 [LinkedIn (si tienes)](https://www.linkedin.com/in/tuusuario)
-- 📧 guachunjose@example.com *(reemplázalo con tu correo real)*
-- 🌐 [Portafolio / Web personal (si tienes)](https://tuweb.dev)
+
 
 ---
 
