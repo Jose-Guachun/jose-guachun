@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/rpw1SKg.png" alt="José Guachun - Full Stack Developer" />
+  <img src="https://i.imgur.com/biFJiQJ.png" alt="José Guachun - Full Stack Developer" />
 </p>
 
 # 👋 Hola, soy José Guachun
