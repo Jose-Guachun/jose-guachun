@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[https://tu-url.com/banner.png](https://t3.ftcdn.net/jpg/05/69/49/34/360_F_569493492_Y41ak1sGwkR0C1d9VZjnBjQcbF6mlWfl.jpg" alt="José Guachun - Full Stack Developer" />
+</p>
+
 # 👋 Hola, soy José Guachun
 
 🎯 **Desarrollador Full Stack** con experiencia en la creación de aplicaciones web robustas, escalables y eficientes utilizando tecnologías modernas como:
@@ -18,8 +22,6 @@ Actualmente me encuentro trabajando en proyectos donde combino backend en Django
 ---
 
 ### 📫 ¿Hablamos?
-
-
 
 ---
 
